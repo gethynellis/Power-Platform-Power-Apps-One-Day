@@ -111,7 +111,7 @@ To customize your form:
 
 16. Select the **Component** tab.
 
-17. Click **Timeline** from the **Related data** section in the Components pane
+17. Click **Timeline** from the **Display** section in the Components pane
     and drag it to the New Section. 
     
 18. After the timeline is filled into the New
@@ -147,7 +147,7 @@ To customize your form:
 
 29. Click the **Components** tab.
 
-30. Click **Subgrid** from the **Related data** section. Check the **Show
+30. Click **Subgrid** from the **Grid** section. Check the **Show
     related records** check box and select **Knowledge Questions** for Table.
     Then click **Done.**
 
