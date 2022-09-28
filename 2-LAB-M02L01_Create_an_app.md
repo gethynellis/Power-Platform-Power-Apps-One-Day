@@ -139,33 +139,38 @@ started will be easy.
 ### Task 1 – Create a model-driven app
 
 1.  Go back to <https://make.powerapps.com>. Make
-    sure to select your **Practice** environment from the environment selector list(It will probably say **Contoso
-    (Default)**.)
+    sure to select your **Practice** environment from the environment selector list(It may already be selected.)
 
 2.  Click on **+ Create** and select **Blank app.** 
     
 4.  In the **Create** dialog box, Click **Create** under **Blank app based on Dataverse**.
 
-5.  Enter **Knowledge Admin** for Name and click **Create**. Click **Switch to classic**.
+ ![create model driver app](Images/2-9.png)
+
+5.  Enter **Knowledge Admin** for Name, leave Description balnk, and click **Create**. Click **Switch to classic**. You might need to click the elipise (three dots) first. Click **Publish and continue** if prompted.
+
+ ![create model driver app](Images/2-10.png)
 
 6.  Click the edit icon (it looks like a pencil) next to **Site Map**. *Note:*
     When you start a new app, you must edit the site map before you can run it -
     otherwise you will get an error. You need to add at least one item to the
     navigation.
 
-7.  Click on the **New Area**.
+7.  Click on the **Area1**.
 
 8.  Enter **Administration** for **Title**.
 
-9.  Select the **New Group**.
+9.  Select the **Group1**.
 
 10.  Enter **User Admin** for **Title**.
 
-11.  Select the **New Subarea**.
+11.  Select the **Subarea1**.
 
 12. Select **Entity** for **Type**.
 
 13. Select **User** for **Entity**.
+
+ ![create model driver app](Images/2-11.png)
 
 14. Click **Save**.
 
@@ -174,12 +179,14 @@ started will be easy.
 16. Close the sitemap editor by clicking **Save and Close**.
 
 17. Click **Save** and then click **Publish.** After publishing, close the app
-    designer by clicking **Save and Close**.
+    designer by clicking **Save and Close**. Then the **Back** button.
+    
+ ![create model driver app](Images/2-12.png)
 
 18. Select **Apps**.
 
-19. The **Knowledge Admin** application you created should be listed. Open the
-    **Knowledge Admin** application by selecting the row and clicking **Play.**
+19. The **Knowledge Admin** application you created should be listed. Edit  the
+    **Knowledge Admin** application by selecting the row and clicking **Play.** click **Publish and continue where prompted**
 
 20. The **Model-Driven** application **Knowledge Admin** will load.
 
