@@ -56,11 +56,15 @@ your own.
 2.  Switch to your **Practice** environment by using the Environment Selector in
     the upper right corner of the screen. (It will probably say **Contoso
     (Default)**.) Select your **Practice** environment from the list.
+    
+    ![choose the right environment](Images/2-1.png)
 
-3.  Select **+ Create** from the left-hand navigation.
+3.  Select **+ Create** from the left-hand navigation menu.
 
 4.  Review the different apps that are available to use as both samples and
     starting templates.
+    
+      ![Template Apps](Images/2-2.png)
 
 ### Task 2 – Create an app over data for Account
 
@@ -71,26 +75,34 @@ goal is to have a list of data from a table.
 
 2.  In the **Create** dialog box, Click **Create** under **Blank canvas app**.
 
+      ![create canvas app](Images/2-3.png)
+
 3.  In the **App Name** dialog box, name your app **Fabrikam
     Accounts** and select **Phone** format.
+    
+      ![create canvas app](Images/2-4.png)
 
 4.  Click **Create** in the dialog. (You may be required to sign in again; enter
     your tenant credentials if necessary.)
 
 5.  Your app should open in the designer. (You may get a few pop-ups first;
-    close them.)
+    close them or click **Skip**.)
+    
+       ![create canvas app](Images/2-5.png)
 
 6.  Select **Data** from the left bar and click **Add data**. From the list of
     tables, select **Accounts.**
 
-7.  Add a header to your app by selecting the **+** button (the Insert button)
-    on the left tab and selecting **Text label.** Use the pane on the right side
+7.  Add a header to your app by selecting the **+ Insert** button (the Insert button)
+    on the left menu  and selecting **Text label.** Use the pane on the right side
     of the screen to enter **Fabrikam Accounts** in the **Text** field, then hit
     **Enter**. You can edit the size, font, and other attributes to customize
     the look and feel of the application.
+    
+     ![create canvas app](Images/2-6.png)
 
-8.  Add a list of accounts to your app by selecting the **+** button on the left
-    tab and selecting **Vertical Gallery** from the **Layout** section.
+8.  Add a list of accounts to your app by selecting the **+ Insert** button on the left
+    menu  and selecting **Vertical Gallery** from the **Layout** section.
 
 9.  A vertical gallery will be inserted into your app, and you will be prompted
     to select which data source it should pull from. Select **Accounts** from
@@ -98,21 +110,25 @@ goal is to have a list of data from a table.
 
 10.  The application will load list of the accounts (it may be blank for now).
     Drag the gallery to fit the app or resize to your liking.
+    
+     ![create canvas app](Images/2-7.png)
 
 11. To preview your app, click **Play** (it will look like a Play button) in the
     upper right corner. Click the **X** in the top right corner to close the
     preview screen.
 
-12. Click **File**.
+12. Click the dropdown next to the save button and select  **Save As**.
 
-13. Select the **Cloud** and enter **Fabrikam Accounts** in the **Name** box.
+     ![create canvas app](Images/2-8.png)
+
+13. Enter **Fabrikam Accounts** in the **Name** box.
 
 14. Click **Save**.
 
 15. Explore the app as much as you want and then proceed to the next exercise.
     This app will be saved, and you can always revisit it later.
 
-16. Close the **App Designer**.
+16. Close the **App Designer** by clikcing the **Back** button don't save the app again.
 
 ## Exercise 2 – Create the model-driven app
 
