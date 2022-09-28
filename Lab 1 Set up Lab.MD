@@ -102,27 +102,4 @@ do the majority of your lab work in.
 disable any pop-up blockers that maybe enabled. This will prevent popup screens
 from not appearing as they should.
 
-## Exercise 3 - Import the Knowledge Assessment Solution
 
-In this excerise we will import the Knowledge Assessment Solution that conatins the two Power Apps needs to implement the assessment enviornment
-
-1.  In the lab machine. on the very first instruction page there blue button called **Download Lab Files** please click that button and wait for the lab files to download from github.
-![Download the lab files](Images/7.png)
-
-2.  Navigate to <https://make.powerapps.com>. You will likely have this open from excercise 1. It will be a tab in your browswer
-
-3.  Make sure you are in the **Practice** environment you created. You will find the enviornment in the top right-hand corner of the screen.
-
-4.  Select **Solutions** from the left-hand menu. Its the last option in the list
-
-4. Select **<--| Import solution** which you will find at the top menu of the screen
-
-5. Click **Browse** and navigate to *F:\Allfiles\Labs* 
-
-6. Click on **Knowledge Assessment Solution Zipfile.zip** and click **Open**
-
-7. Click **Next**
-
-![Import the solution](Images/5.png)
-
-8. Click **Import** the import can take several minutes. We will move on with the taught material once this has been completed
